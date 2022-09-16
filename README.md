@@ -23,3 +23,14 @@ SV Type     |   Nash Q-Learning           |  Rule Based
 :-------------------------:|:-------------------------:|:-------------------------:
 Gentle | <img src="https://github.com/alireza-montazeri/AV-Nash-Q-Learning/blob/master/movies/nashQ_gentle.gif" />|<img src="https://github.com/alireza-montazeri/AV-Nash-Q-Learning/blob/master/movies/rule_gentle.gif" />
 Aggressive | <img src="https://github.com/alireza-montazeri/AV-Nash-Q-Learning/blob/master/movies/nashQ_aggressive.gif" />|<img src="https://github.com/alireza-montazeri/AV-Nash-Q-Learning/blob/master/movies/rule_aggressive.gif" />
+
+## References
+[1]	C. Xu, W. Zhao, L. Li, Q. Chen, D. Kuang and J. Zhou, "A Nash Q-Learning Based Motion Decision Algorithm With Considering Interaction to Traffic Participants," in IEEE Transactions on Vehicular Technology, vol. 69, no. 11, pp. 12621-12634, Nov. 2020, doi: 10.1109/TVT.2020.3027352.
+
+[2]	Junling Hu and Michael P. Wellman. 2003. Nash q-learning for general-sum stochastic games. J. 	Mach. Learn. Res 4, (12/1/2003), 1039–1069.
+
+[3]	Yang, D., Jin, J.P., Pu, Y., et al.: ‘Safe distance car-following model including backward-looking and its stability analysis’, Eur. Phys. J. B, 2013, 86, p. 92.
+
+[4]	Leurent, E. (2018). An Environment for Autonomous Driving Decision-Making. In GitHub repository. GitHub. https://github.com/eleurent/highway-env
+
+[5]	Zhou, X., Kuang, D., Zhao, W., Xu, C., Feng, J. and Wang, C. (2020), Lane-changing decision method based Nash Q-learning with considering the interaction of surrounding vehicles. IET Intell. Transp. Syst., 14: 2064-2072
